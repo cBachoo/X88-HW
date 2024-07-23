@@ -1,8 +1,8 @@
-# X88H - Hybrid USB/JST
+# X88J - JST only
 
-![](images/X88H-.bottom.svg)
+![](images/X88J-.bottom.svg)
 
-![](images/X88H-.top.svg)
+![](images/X88J-.top.svg)
 
 ## License
 
@@ -28,7 +28,7 @@ The [marbastlib](https://github.com/ebastler/marbastlib) MX switch symbol/footpr
 
 1) Head to the [JLCPCB order page](https://cart.jlcpcb.com/quote).
 
-2) Upload the `GERBER-X88H.zip` file in `jlcpcb/production_files/`.
+2) Upload the `GERBER-X88J.zip` file in `jlcpcb/production_files/`.
 
 3) Set the quantity of the PCBs you want made.
 
@@ -47,9 +47,9 @@ The [marbastlib](https://github.com/ebastler/marbastlib) MX switch symbol/footpr
 
 7) Click `NEXT` to get to the Bill of Materials tab.
 
-8) Click `Add BOM File` and select the `BOM-X88H.csv` file in `jlcpcb/production_files/`.
+8) Click `Add BOM File` and select the `BOM-X88J.csv` file in `jlcpcb/production_files/`.
 
-9) Click `Add CPL File` and select the `CPL-X88H.csv` file in `jlcpcb/production_files/`. Click `Process BOM & CPL` to proceed.
+9) Click `Add CPL File` and select the `CPL-X88J.csv` file in `jlcpcb/production_files/`. Click `Process BOM & CPL` to proceed.
 
 10) You should be presented with a list of all the components and quantities needed. Double check there are no missing components. If there are, you will have to find substitute components for it. Click `NEXT` to proceed.
 
@@ -63,7 +63,7 @@ The [marbastlib](https://github.com/ebastler/marbastlib) MX switch symbol/footpr
 
 1) Head to the [PCBWay Quick Order page](https://www.pcbway.com/QuickOrderOnline.aspx)
 
-2) Click the `Add Gerber file` button and add the `X88H.kicad_pcb.zip` file in the main folder. Don't worry about the broken preview.
+2) Click the `Add Gerber file` button and add the `X88J.kicad_pcb.zip` file in the main folder. Don't worry about the broken preview.
 
 3) Set the quantity of the PCBs you want made.
 
