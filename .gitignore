@@ -1,0 +1,5 @@
+*-backups
+*.lck
+
+*.pyc
+*.kicad_sch-bak

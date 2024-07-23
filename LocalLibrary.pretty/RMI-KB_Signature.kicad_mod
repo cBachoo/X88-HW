@@ -1,0 +1,138 @@
+(footprint "RMI-KB_Signature"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "88f464c4-f02f-46d6-8195-63cda81da04f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RMI-KB_Signature"
+		(at 0 -0.5 0)
+		(layer "F.Fab")
+		(uuid "2e675fa5-db3e-49d7-9a24-2bdf2056221c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec34f74e-1e7a-4b8f-bb31-8d61d2470da7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b86ad88f-6354-4976-91c6-22770754621a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40962e27-a89b-4737-939f-bd94a76c8a98")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(fp_poly
+		(pts
+			(xy -5 2.5) (xy -5.5 2.5) (xy -5.5 -2.75) (xy -5 -2.75)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "16f81fa7-ce00-4002-b97c-ca31707b5f80")
+	)
+	(fp_poly
+		(pts
+			(xy 5.5 -2.75) (xy -5.5 -2.75) (xy -5.5 -3.25) (xy 5.5 -3.25)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "6e304710-6ffd-4785-9b51-b8a615e3f156")
+	)
+	(fp_poly
+		(pts
+			(xy 5.5 2.5) (xy 5 2.5) (xy 5 -2.75) (xy 5.5 -2.75)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "ff1bf522-79e6-485f-acf3-b04b1e3b91b2")
+	)
+	(fp_poly
+		(pts
+			(xy 5.5 3) (xy -5.5 3) (xy -5.5 2.5) (xy 5.5 2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Cu")
+		(uuid "04d6f868-a7bc-475e-bb2c-05628933b8c0")
+	)
+	(fp_poly
+		(pts
+			(xy 5.5 3) (xy -5.5 3) (xy -5.5 -3.25) (xy 5.5 -3.25)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "0d3c732a-27d3-4702-8ce0-e584aee07181")
+	)
+	(fp_text user "RMI"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "926f676e-12b3-4ed8-930e-0c6347f35d20")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.75)
+			)
+		)
+	)
+)

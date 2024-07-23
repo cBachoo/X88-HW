@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Ramon")(type "KiCad")(uri "${KBLIBDIR}/Ramon.pretty")(options "")(descr ""))
+  (lib (name "LocalLibrary")(type "KiCad")(uri "${KIPRJMOD}/LocalLibrary.pretty")(options "")(descr ""))
+)

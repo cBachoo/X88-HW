@@ -1,0 +1,33 @@
+noLayer: true
+board:
+    color:
+        fr4: '#000000' #Substrate
+        cu: '#cccccc' #Copper
+        cf: '#cc9933' #Copper (finished)
+        sm: "#000000aa" #Soldermask
+        ss: '#ffffff' #Silkscreen
+        sp: '#999999' #Solderpaste
+        out: "rgba(00,00,128,0.75)" #Board outline
+layer:
+    X88H-EdgeCuts.gbr:
+        type: outline
+        side: all
+        options:
+            plotAsOutline: 0.05
+    X88H-MaskBottom.gbr:
+        type: soldermask
+    X88H-MaskTop.gbr:
+        type: soldermask
+    X88H-PasteBottom.gbr:
+        type: solderpaste
+    X88H-PasteTop.gbr:
+        type: solderpaste
+    X88H-SilkBottom.gbr:
+        type: silkscreen
+    X88H-SilkTop.gbr:
+        type: silkscreen
+    X88H-NPTH-drl_map.pdf:
+        type: drawing
+
+out:
+    images\
