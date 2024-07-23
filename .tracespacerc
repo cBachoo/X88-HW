@@ -9,24 +9,24 @@ board:
         sp: '#999999' #Solderpaste
         out: "rgba(00,00,128,0.75)" #Board outline
 layer:
-    X88H-EdgeCuts.gbr:
+    X88C-EdgeCuts.gbr:
         type: outline
         side: all
         options:
             plotAsOutline: 0.05
-    X88H-MaskBottom.gbr:
+    X88C-MaskBottom.gbr:
         type: soldermask
-    X88H-MaskTop.gbr:
+    X88C-MaskTop.gbr:
         type: soldermask
-    X88H-PasteBottom.gbr:
+    X88C-PasteBottom.gbr:
         type: solderpaste
-    X88H-PasteTop.gbr:
+    X88C-PasteTop.gbr:
         type: solderpaste
-    X88H-SilkBottom.gbr:
+    X88C-SilkBottom.gbr:
         type: silkscreen
-    X88H-SilkTop.gbr:
+    X88C-SilkTop.gbr:
         type: silkscreen
-    X88H-NPTH-drl_map.pdf:
+    X88C-NPTH-drl_map.pdf:
         type: drawing
 
 out:
