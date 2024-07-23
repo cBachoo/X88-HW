@@ -10,7 +10,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 This design may be freely produced, modified, and manufactured for PERSONAL USE ONLY and may not be reproduced in physical form for public sale.
 
-For commercial licenses, please contact streamline[at]saevus.org.
+For commercial licenses, please contact streamline[at]saevus.org, or bachoobusiness[at]gmail.com.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
