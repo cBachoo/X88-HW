@@ -10,7 +10,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 This design may be freely produced, modified, and manufactured for **UP TO 50 UNITS ONLY**.
 
-For orders of over 50 units, please reach out to Nick ( `nick[at]concreteflowers.com` ), or Bachoo ( `bachoobusiness[at]gmail.com` ).
+For orders of over 50 units, please reach out to Nick (`nick[at]concreteflowers.com`), or Bachoo (`bachoobusiness[at]gmail.com`).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
