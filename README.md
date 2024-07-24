@@ -8,9 +8,9 @@
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This design may be freely produced, modified, and manufactured for PERSONAL USE ONLY and may not be reproduced in physical form for public sale.
+This design may be freely produced, modified, and manufactured for **UP TO 50 UNITS ONLY**.
 
-For commercial licenses, please contact streamline[at]saevus.org, or bachoobusiness[at]gmail.com.
+For orders of over 50 units, please reach out to Nick ( `nick[at]concreteflowers.com` ), or Bachoo ( `bachoobusiness[at]gmail.com` ).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
@@ -38,10 +38,9 @@ The [marbastlib](https://github.com/ebastler/marbastlib) MX switch symbol/footpr
 - Surface Finish: **ENIG**
 - Remove Order Number: **Yes**   
 
-5) Enable the PCB Assembly option at the bottom, and set the following parameters:
+5) Enable the PCB Assembly option at the bottom, and set the following parameter:
 
-- PCBA Type: **Standard**
-- Assembly Side: **Both Sides**
+- Assembly Side: **Bottom Side**
 
 6) Press `Confirm` at the bottom or `NEXT` on the right to get to the next page.
 
@@ -75,7 +74,7 @@ The [marbastlib](https://github.com/ebastler/marbastlib) MX switch symbol/footpr
 
 5) Enable the Assembly Service option at the bottom, and set the following parameters:
 
-- Assembly side(s): **Both sides**
+- Assembly side(s): **Bottom side**
 - Quantity: **as needed; same number as your PCBs?**
 - Do you accept alternatives/substitutes made in China? **Yes**
 
