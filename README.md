@@ -8,9 +8,9 @@
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This design may be freely produced, modified, and manufactured for PERSONAL USE ONLY and may not be reproduced in physical form for public sale.
+This design may be freely produced, modified, and manufactured for **UP TO 50 UNITS ONLY**.
 
-For commercial licenses, please contact streamline[at]saevus.org, or bachoobusiness[at]gmail.com.
+For orders of over 50 units, please reach out to Nick ( `nick[at]concreteflowers.com` ), or Bachoo ( `bachoobusiness[at]gmail.com` ).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
