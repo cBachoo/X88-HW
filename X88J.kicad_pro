@@ -62,8 +62,6 @@
       "drc_exclusions": [
         "copper_edge_clearance|107965079|-6152228|48e28f59-b4c6-425e-ac80-44dcbdaf4b2a|245ad67a-c1ac-42b5-83f7-5e49f4c328a1",
         "copper_edge_clearance|27368470|-5492949|92738e12-2a09-4a8f-8fce-bb546ec788c9|f5a03ce3-9b8c-44db-81fa-a3367ae3f8d4",
-        "copper_edge_clearance|274286250|-14350000|a6accba8-eff6-44c1-8559-c918c8c07e9b|61e90ecd-5468-49ef-804c-a46d578902ed",
-        "copper_edge_clearance|282614428|-15004039|88f93667-e0be-4820-8983-ed54df908f05|5c971c98-7a1d-4b0b-b97a-32b05356e38e",
         "copper_edge_clearance|2964765|68094014|5e97c5be-49f1-4532-8a57-b5dc5e6f39d6|a2fa194b-7273-4771-bf04-fefdac682ae3",
         "copper_edge_clearance|2965045|65894795|d949de78-c213-4371-bf13-90cb3a7d5473|685c1561-88f2-4eb8-b581-9b409f689a6e",
         "copper_edge_clearance|307764720|6181512|2cb39d8e-60a7-4f40-b864-6633ed8afc53|b735e6e6-e1c7-4625-950c-e629fcbfe0f5",
@@ -619,7 +617,7 @@
       "plot": "JLCPCB/gerbers",
       "pos_files": "JLCPCB/assembly",
       "specctra_dsn": "",
-      "step": "EminenceTKL-SOLDER-3D-Model.step",
+      "step": "X88J-3D-model.step",
       "svg": "",
       "vrml": ""
     },
