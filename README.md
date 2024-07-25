@@ -24,6 +24,8 @@ The files were designed with [KiCAD 8.0.4](https://www.kicad.org/).
 
 The [marbastlib](https://github.com/ebastler/marbastlib) MX switch symbol/footprint library is used for the project.
 
+The 3D model for the PCB can be seen in the main folder under `X88C-3D-model.step`.
+
 ## Ordering from JLCPCB
 
 1) Head to the [JLCPCB order page](https://cart.jlcpcb.com/quote).

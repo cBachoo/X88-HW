@@ -619,7 +619,7 @@
       "plot": "JLCPCB/gerbers",
       "pos_files": "JLCPCB/assembly",
       "specctra_dsn": "",
-      "step": "EminenceTKL-SOLDER-3D-Model.step",
+      "step": "X88C-3D-model.step",
       "svg": "",
       "vrml": ""
     },
