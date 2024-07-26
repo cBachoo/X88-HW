@@ -8,9 +8,9 @@
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This design may be freely produced, modified, and manufactured for private / low scale runs.
+You are free to produce, modify, and manufacture this design for private use (personal, non-commercial purposes) or small scale non-commercial production runs of 50 units or fewer. 
 
-For larger scale runs (orders of over 50 units), please reach out to Nick (`nick[at]concreteflowers.com`), or Bachoo (`bachoobusiness[at]gmail.com`).
+In the case of larger-scale production (exceeding 50 units)/any commercial use, please contact Nick (`nick[at]concreteflowers.com`), or Bachoo (`bachoobusiness[at]gmail.com`).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
