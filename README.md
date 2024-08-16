@@ -18,6 +18,11 @@ In the case of larger-scale production (exceeding 50 units)/any commercial use, 
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+## Changelog
+
+- 16 Aug 2024
+    - Rotated JST connector so it's facing the alphas
+
 ## Design Files / Libraries
 
 The files were designed with [KiCAD 8.0.4](https://www.kicad.org/).
