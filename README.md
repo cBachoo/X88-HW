@@ -20,7 +20,7 @@ In the case of larger-scale production (exceeding 50 units)/any commercial use, 
 
 ## Changelog
 
-- 16 Aug 2024
+- 17 Aug 2024
     - Rotated JST connector so it's facing the alphas
 
 ## Design Files / Libraries
